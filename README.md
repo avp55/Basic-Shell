@@ -6,5 +6,5 @@
   * Commands may take advantage of piping fitting user needs
     * Internal commands are filtered out if attempting to pipe them
 * New instances of the Shell, or other external programs may be launched using forking
-* A Circular Queue data-structure is implemented as a means to save previously entered commands
+* A Circular Queue data-structure is implemented as a means to save and retrieve previously entered commands
 * Shell may be terminated with an "exit" command, or via Control-C keypress
